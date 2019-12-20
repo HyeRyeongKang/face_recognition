@@ -6,6 +6,9 @@ Face Tracking(얼굴 추적) : 동영상에서 얼굴 탐지를 한 번 하고 �
 
 *Face Recognition(얼굴 인식) : 사진을 이미 알고 있는 상태에서, 다른 사진에서 누가 그 얼굴인지 알아 내는 것 
 
+### 결과:
+![output](./result/output.png)
+
 ### Needs:
 1. dlib : Face detection + Face recognition
 2. OpenCV : 이미지 작업
